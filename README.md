@@ -4,7 +4,7 @@ this is beutiful news app there are categorys of news like Science , Technology 
 
 ## Demo
 
-Insert gif or link to demo
+Youtube link 
 https://youtu.be/VkGY9sGR0II
 
 ## Run Locally
