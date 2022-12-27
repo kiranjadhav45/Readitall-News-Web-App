@@ -39,7 +39,7 @@ Start the server
 
 ## Roadmap
 
--  We will ass some Additional Styling
+-  We will add some Additional Styling
 
 - Will improve app like Spinner 
 
