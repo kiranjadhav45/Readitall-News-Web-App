@@ -39,9 +39,9 @@ Start the server
 
 ## Roadmap
 
-- Additional browser support
+-  We will ass some Additional Styling
 
-- Add more integrations
+- Will improve app like Spinner 
 
 ## 🚀 About Me
 
