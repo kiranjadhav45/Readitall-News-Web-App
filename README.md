@@ -1,7 +1,6 @@
 # Readitall News Web App
 
-this is beutiful news app there are categorys of news like Science , Technology Bussness etc . Some components like Headline and Top Stories . technology used in this app React JS , Javascript , Boostrap , CSS & HTML
-API used in this app is free news news API and
+this is beutiful news app there are categorys of news like Science , Technology Bussness etc . Some components like Headline and Top Stories . technology used in this app React JS , Javascript , Boostrap , CSS & HTML . free news news API used in this app
 
 ## Demo
 
